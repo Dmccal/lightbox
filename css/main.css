@@ -1,0 +1,13 @@
+.lightbox a {
+  text-decoration: none;
+
+}
+
+.lightbox img {
+  border: 1px solid #bbb;
+  padding: 4px;
+}
+
+.lightbox img:hover{
+  box-shadow: 3px 3px 3px #888;
+}
